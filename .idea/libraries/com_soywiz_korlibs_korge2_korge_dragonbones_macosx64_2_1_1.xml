@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="com.soywiz.korlibs.korge2:korge-dragonbones-macosx64:2.1.1" type="repository">
+    <properties maven-id="com.soywiz.korlibs.korge2:korge-dragonbones-macosx64:2.1.1" packaging="pom" />
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/korge-dragonbones-macosx64-2.1.1.pom" />
+      <root url="jar://$PROJECT_DIR$/lib/korge-macosx64-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/klock-macosx64-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/korau-macosx64-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/korio-macosx64-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/korau-macosx64-2.1.1-cinterop-minimp3.klib!/" />
+      <root url="jar://$PROJECT_DIR$/lib/korau-macosx64-2.1.1-cinterop-stb_vorbis.klib!/" />
+      <root url="jar://$PROJECT_DIR$/lib/korau-macosx64-2.1.1-cinterop-mac_OpenAL.klib!/" />
+      <root url="jar://$PROJECT_DIR$/lib/korma-macosx64-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/korim-macosx64-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/korgw-macosx64-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/krypto-macosx64-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/korinject-macosx64-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/klogger-macosx64-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kds-macosx64-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kmem-macosx64-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/korte-macosx64-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-1.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
